@@ -1,0 +1,5 @@
+Cifrado Huffman hasta el árbol
+
+----------------------------------------------------------------
+
+Cifrado Huffman desde el árbol hasta guardar el cifrado
